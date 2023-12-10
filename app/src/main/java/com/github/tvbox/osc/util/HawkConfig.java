@@ -6,6 +6,18 @@ package com.github.tvbox.osc.util;
  * @description:
  */
 public class HawkConfig {
+    
+    public static boolean FORCE_pause = false;
+    //public static String APP_ID = "10000"; //应用ID
+    public static String APP_ID = "10004"; //应用ID
+    public static String SEN_SUS = "d4c411f7e4"; //百度统计
+    public static String APP_Channel = "PZMOoBzHy5AFH2LTH9j"; //渠道随意
+    public static String MMM_MMM = "http://igzc.cn/ijr/"; //后台地址
+    //public static String API_KEY = "ciZnHpfdxZWP5Rx65Sw2ap4AsxkAhawp"; //接口密钥
+    //public static String API_KEY = "536b84f866cc67cf5b991803e1f8d08e"; //接口密钥
+    //public static String API_KEY = "2s8tDrjYWNPK2YZaWQkK3PSfXezQKRRe"; //接口密钥
+    public static String API_KEY = "28DMmtAKiiXxZAhQQ8K8EJ3m3GX6zk7K"; //接口密钥
+    
     public static final String API_URL = "api_url";
     public static final String API_HISTORY = "api_history";
     public static final String HOME_API = "home_api";
